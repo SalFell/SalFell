@@ -1,21 +1,14 @@
-### Hello, I'm Salvador Felipe 👋
-### Computer Science major at CSU, Fullerton;
-### SDE Intern at Crescent Software, Inc.;
-### Sun's Edge (aka Into the Farlands) Game Dev. / Programmer;
+## Hello, I'm Salvador Felipe 👋
+👨‍🎓Computer Science major at CSU, Fullerton;
+👨‍💻Software Developer Intern at Crescent Software, Inc.;
+:godmode:Sun's Edge (aka Into the Farlands) Game Dev. / Programmer;
+
+Let's make something and learn from eachother 😄
+
+Currently working in Software development and game development.
+
+[Email](salvadorfelipe77@hotmail.com)
+
+[LinkdIn](https://www.linkedin.com/in/salvador-felipe-38b396217/)
 
 [![Salvador Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
-
-<!--
-**SalFell/SalFell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
