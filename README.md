@@ -11,4 +11,4 @@ Currently working in Software development and game development.
 
 [LinkdIn](https://www.linkedin.com/in/salvador-felipe-38b396217/)
 
-[![Salvador Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
+<!--[![Salvador Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
