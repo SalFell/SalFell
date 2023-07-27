@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Salvador Felipe 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
 
 <!--
 **SalFell/SalFell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
