@@ -1,6 +1,9 @@
 ### Hello, I'm Salvador Felipe 👋
+Computer Science major at CSU, Fullerton;
+SDE Intern at Crescent Software, Inc.;
+Sun's Edge (aka Into the Farlands) Game Dev. / Programmer;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
+[![Salvador Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalFell)](https://github.com/SalFell/github-readme-stats)
 
 <!--
 **SalFell/SalFell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
