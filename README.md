@@ -1,7 +1,7 @@
 ## Hello, I'm Salvador Felipe 👋
-👨‍🎓Computer Science major at CSU, Fullerton;
-👨‍💻Software Developer Intern at Crescent Software, Inc.;
-:godmode:Sun's Edge (aka Into the Farlands) Game Dev. / Programmer;
+👨‍🎓Bachelors in Computer Science from CSU, Fullerton;
+👨‍💻Software Developer at Crescent Software, Inc.;
+Sun's Edge Game Dev. / Programmer;
 
 Let's make something and learn from eachother 😄
 
