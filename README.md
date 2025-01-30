@@ -1,7 +1,7 @@
 ## Hello, I'm Salvador Felipe 👋
-👨‍🎓Bachelors in Computer Science from CSU, Fullerton;
-👨‍💻Software Developer at Crescent Software, Inc.;
-Sun's Edge Game Dev. / Programmer;
+👨‍🎓Bachelors in Computer Science from CSU, Fullerton| 
+👨‍💻Software Developer at Crescent Software, Inc.| 
+Systems Programmer at KCstudios.games;
 
 Let's make something and learn from eachother 😄
 
